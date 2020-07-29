@@ -1,2 +1,2 @@
-# python
- Just playing around with simple Py-codes
+# Python
+ Just playing around with simple Py-codes.
